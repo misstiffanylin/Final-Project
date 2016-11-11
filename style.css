@@ -1,0 +1,84 @@
+
+body {
+	font-family: 'Amiko', sans-serif;
+  color: #333333;
+}
+
+body, html {
+    height: 100%;
+}
+
+#about {  
+    background: rgba(255,255,255,0.3);
+    text-align: center; 
+    padding: 40px 100px 40px 100px;
+}
+
+#playlist {
+  background: #333333;
+  color: #d3d3d3;
+  padding: 50px;
+  text-align: center;
+}
+
+#contact {
+  background: rgba(255,255,255,0.3);
+  padding: 50px;
+}
+
+#heroImage {
+    background-image: url(images/boardWalkOverWater.jpg);
+    height: 700px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#chill {
+  background: #333333;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#progressive {
+  background: #333333;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#deep {
+  background: #333333;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#trapHipHop {
+  background: #333333;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.mainTitle {
+    font-family: 'Lobster', cursive;
+    color: #333333;
+    font-size: 75px;
+    text-align: center;
+    padding-top: 200px;
+}
+.panel-default > .panel-heading {
+  background-color:  #333333 !important;
+  color: #d3d3d3 !important;
+}
+
+.copyrightText {
+  background-color: #333333;
+  text-align: center;
+  color: #ffffff;
+  height: 50px;
+  padding-top: 15px;
+}
+
+.hiddenPlaylist {
+  display: none;
+}
