@@ -13,7 +13,6 @@ $(document).ready(
         $("#playlist button:nth-child(2)").click(function(){
             $(".list").addClass('hiddenPlaylist');
             $("#chill").removeClass('hiddenPlaylist');
-            
         });
     
    
@@ -22,7 +21,6 @@ $(document).ready(
             $("#deep").removeClass('hiddenPlaylist')
         });
 
-    
 
     
         $("#playlist button:nth-child(4)").click(function(){

@@ -38,25 +38,45 @@ body, html {
 #chill {
   background: #333333;
   text-align: center;
+  padding-top: 50px;
   padding-bottom: 50px;
+  background-image: url(images/chill.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
 }
 
 #progressive {
   background: #333333;
   text-align: center;
+  padding-top: 50px;
   padding-bottom: 50px;
+  background-image: url(images/progressive.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
 }
 
 #deep {
   background: #333333;
   text-align: center;
+  padding-top: 50px;
   padding-bottom: 50px;
+  background-image: url(images/deep.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
 }
 
 #trapHipHop {
   background: #333333;
   text-align: center;
+  padding-top: 50px;
   padding-bottom: 50px;
+  background-image: url(images/trapHipHop.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
 }
 
 .mainTitle {
